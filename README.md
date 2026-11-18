@@ -66,7 +66,7 @@ CONTROLS (the VR controllers are an Xbox 360 controller for the game)
 
 Issues
 -
-* Performace (may work well for you mot my PC side note i have on HHD :( )
+* Performace (may work well for you not my PC "side note i have on HHD :(" )
 * remove hat\hair in 3rd persson you can reenable it in VR settings
 
 Disable: to disable Mod rename winhttp.dll to winhttp.dll.bak
